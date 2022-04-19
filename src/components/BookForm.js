@@ -44,7 +44,7 @@ function BookForm() {
     </div>
 
     </form>
-    <span className='col s2'/>
+    <span className='col s2'/> 
 
     </div>
   )
